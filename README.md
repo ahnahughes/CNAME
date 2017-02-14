@@ -1,0 +1,2 @@
+# CNAME
+www.ahnaj.com
